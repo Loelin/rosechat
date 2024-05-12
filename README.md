@@ -1,4 +1,4 @@
-# Radial Opoen Social Engagement (R.O.S.E.) Chat (_a CardPuter-PicoChat derivative_)
+# Radial Open Social Engagement (R.O.S.E.) Chat (_a CardPuter-PicoChat derivative_)
 
 _Based on the client of [PicoChat](https://github.com/PixelDud/PicoChat-Server) for the M5Stack Cardputer, ROSEChat is a fork with the primary goal of providing multimedia messaging across low-level networking between ESP-NOW and WIFI wireless intefaces._
 
