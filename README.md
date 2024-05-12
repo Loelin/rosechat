@@ -4,7 +4,7 @@ _Based on the client of [PicoChat](https://github.com/PixelDud/PicoChat-Server) 
 
 Original description
 
->A [PicoChat](https://github.com/PixelDud/PicoChat-Server) client for the M5Stack CardPuter, written in MicroPython for use with [MicroHydra](https://github.com/echo-lalia/Cardputer-MicroHydra).
+>A [PicoChat](httwps://github.com/PixelDud/PicoChat-Server) client for the M5Stack CardPuter, written in MicroPython for use with [MicroHydra](https://github.com/echo-lalia/Cardputer-MicroHydra).
 
 >To use, simply place the `PicoChat` folder into the `apps/` folder on the SD card you use with MicroHydra.
 The settings must be manually edited (for the time being), so make sure to set your username in the `settings.json` file! The default server address is active, so feel free to leave it as is, or go ahead and host your own server!
